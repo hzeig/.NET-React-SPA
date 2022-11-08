@@ -1,6 +1,6 @@
 # .NET-React-SPA
 
-First .NET React SPA Dockerized on a dotnet image --- built following the following examples: 
+First .NET React SPA Dockerized on a dotnet image --- built with guidance from these examples: 
 
 https://learn.microsoft.com/en-us/visualstudio/javascript/tutorial-asp-net-core-with-react?view=vs-2022
 
